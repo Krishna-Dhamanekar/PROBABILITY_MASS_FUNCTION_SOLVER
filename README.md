@@ -62,26 +62,25 @@ Exit Program
 - Include GUI for easier interaction.
 - Support different types of question patterns and distributions for more flexible probability calculations.
 
-
-
-
 ## How to Run
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
+1. Clone the repository
+      git clone https://github.com/your-username/your-repo.git
 
-# Navigate to the folder
-cd your-repo
 
-# Compile the program
-gcc pmf_solver.c -o pmf_solver -lm
+2. Navigate to the project folder
+       cd your-repo
 
-# Run the program
-./pmf_solver
 
+3. Compile the C program
+      gcc pmf_solver.c -o pmf_solver -lm
+
+
+4. Run the program
+      ./pmf_solver
 
 
 ## Author
+ 
+ Krishna B Dhamanekar
 
-Krishna Dhamanekar
